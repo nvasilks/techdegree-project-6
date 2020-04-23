@@ -95,6 +95,7 @@ button {
 .show {
   color: #000;
   background-color: #76CE82;
+  transition-duration: 1s;
 }
 
 /* Keyboard */
@@ -144,6 +145,7 @@ button {
 
 .start a {
   color: var(--color-win);
+  text-decoration: none;
 }
 
 .win {
